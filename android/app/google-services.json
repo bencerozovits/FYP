@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008331623633",
+    "project_id": "authenticityassurance",
+    "storage_bucket": "authenticityassurance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008331623633:android:ac4a8a748366f6fb4f89f0",
+        "android_client_info": {
+          "package_name": "com.example.authenticity.authenticityassurance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakf4vTFP3WrIByoMBvjv1f0p4xhTR0ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
